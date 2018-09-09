@@ -1,0 +1,1 @@
+public: cd dist && node main.js

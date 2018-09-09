@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "es5",
+    "lib": ["es2015", "es2016", "dom", "dom.iterable"],
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

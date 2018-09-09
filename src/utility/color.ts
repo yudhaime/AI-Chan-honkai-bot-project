@@ -1,0 +1,54 @@
+const colors = [{
+  color: 'red',
+  code: 16007990
+}, {
+  color: 'pink',
+  code: 15277667
+}, {
+  color: 'purple',
+  code: 10233776
+}, {
+  color: 'deep-purple',
+  code: 6765239
+}, {
+  color: 'indigo',
+  code: 4149685
+}, {
+  color: 'blue',
+  code: 2201331
+}, {
+  color: 'light-blue',
+  code: 240116
+}, {
+  color: 'cyan',
+  code: 48340
+}, {
+  color: 'teal',
+  code: 38536
+}, {
+  color: 'green',
+  code: 5025616
+}, {
+  color: 'light-green',
+  code: 9159498
+}, {
+  color: 'lime',
+  code: 13491257
+}, {
+  color: 'yellow',
+  code: 16771899
+}, {
+  color: 'amber',
+  code: 16761095
+}, {
+  color: 'orange',
+  code: 16750592
+}, {
+  color: 'deep-orange',
+  code: 16733986
+}, {
+  color: 'brown',
+  code: 7951688
+}]
+
+export const random = () => colors[Math.floor(Math.random() * colors.length)]

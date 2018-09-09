@@ -1,0 +1,74 @@
+{
+  battlesuit: '',
+  file: '',
+  emoji: '',
+  baserank: '',
+  type: '',
+  characteristics: [
+  ],
+  rate: {
+    damage: 0,
+    burst: 0,
+    survive: 0,
+    support: 0,
+    simple: 0,
+    control: 0
+  },
+  features: [
+  ],
+  skill: {
+    evasion: {
+      title: '',
+      descriptions: [
+      ]
+    },
+    ultimate: {
+      title: '',
+      descriptions: [
+      ]
+    },
+    leader: {
+      title: '',
+      descriptions: [
+      ]
+    }
+  },
+  overview: {
+    advantage: [
+    ],
+    disadvantage: [
+    ],
+},  
+score: {
+     pride: 0,
+     wrath: 0,
+     gluttony: 0,
+     infinity: 0,
+     memorial: 0,
+     raid: 0,   
+},
+formations: [{
+    valk: ,
+    star: ,
+    reason: [
+    ]
+    }, {
+    valk: ,
+    star: ,
+    reason: [
+    ]
+    }],
+  recommendations: [{
+    level: 'beginner',
+    weapon: [''],
+    stigmata: [['']],
+    review: [
+    ]
+  }, {
+    level: '',
+    weapon: [''],
+    stigmata: [['']],
+    review: [
+    ]
+  }]
+}
